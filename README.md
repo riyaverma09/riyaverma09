@@ -1,8 +1,16 @@
+
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi there 👋, I'm Riya Verma</h1>
-<h3 align="center">Frontend Developer | Aspiring Data Analyst | Always Learning 🚀</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Frontend+Developer;Aspiring+Data+Analyst;Always+Learning+New+Things)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=F75C7E&center=true&vCenter=true&width=900&lines=Frontend+Developer+%7C+Aspiring+Data+Analyst+%7C+Always+Learning+%F0%9F%9A%80"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+
 
 ---
 
