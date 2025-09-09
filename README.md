@@ -1,5 +1,8 @@
 <!-- PROFILE HEADER -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Riya+Verma;Frontend+Developer;Aspiring+Data+Analyst;Always+Learning+New+Things)](https://git.io/typing-svg)
+<h1 align="center">Hi there 👋, I'm Riya Verma</h1>
+<h3 align="center">Frontend Developer | Aspiring Data Analyst | Always Learning 🚀</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Frontend+Developer;Aspiring+Data+Analyst;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ---
 
@@ -62,6 +65,27 @@
 
 ## 📈 Activity Graph  
 [![Riya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riyaverma09&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 📌 Pinned Projects  
+<p align="center">
+  <a href="https://github.com/riyaverma09/Myntra-Clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=Myntra-Clone&theme=radical" />
+  </a>
+  <a href="https://github.com/riyaverma09/Snake-Game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=Snake-Game&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/riyaverma09/Online-Sales-Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=Online-Sales-Dashboard&theme=radical" />
+  </a>
+  <a href="https://github.com/riyaverma09/Travel-Tourism-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=Travel-Tourism-System&theme=radical" />
+  </a>
+</p>
 
 ---
 
