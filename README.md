@@ -77,35 +77,6 @@
 ---
  
 
-## 📌 Pinned Projects  
-<p align="center">
-  <a href="https://github.com/riyaverma09/Netflix-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=Netflix-clone&theme=radical" />
-  </a>
-  <a href="https://github.com/riyaverma09/Snake_game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=Snake_game&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/riyaverma09/Online-Sales-Data-Analysis-Report">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=Online-Sales-Data-Analysis-Report&theme=radical" />
-  </a>
-  <a href="https://github.com/riyaverma09/iphone_sales_analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=iphone_sales_analysis&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/riyaverma09/HR-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=HR-dashboard&theme=radical" />
-  </a>
-  <a href="https://github.com/riyaverma09/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=portfolio&theme=radical" />
-  </a>
-</p>
-
-
 ## 🌐 Connect with Me  
 <p align="left">
 <a href="https://linkedin.com/in/riya-verma-761844250" target="blank">
