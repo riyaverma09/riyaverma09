@@ -3,6 +3,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+
+---
+
 ## 👩‍💻 About Me  
 - 🎓 MCA (LPU, Punjab) | BCA (Quantum University, Uttarakhand)  
 - 💼 Former Frontend Developer Intern @ iQuanta, Gurgaon  
@@ -62,6 +68,32 @@
 
 ## 📈 Activity Graph  
 [![Riya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riyaverma09&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=riyaverma09&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 💡 Quote of the Day  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 📌 Featured Projects  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=Myntra-Clone&theme=radical)](https://github.com/riyaverma09/Myntra-Clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=Online-Sales-Dashboard&theme=radical)](https://github.com/riyaverma09/Online-Sales-Dashboard)
+
+---
+
+## 🏅 Coding Profiles  
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 
 ---
 
