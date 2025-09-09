@@ -70,20 +70,29 @@
 
 ## 📌 Pinned Projects  
 <p align="center">
-  <a href="https://github.com/riyaverma09/Myntra-Clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=Myntra-Clone&theme=radical" />
+  <a href="https://github.com/riyaverma09/Netflix-clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=Netflix-clone&theme=radical" />
   </a>
-  <a href="https://github.com/riyaverma09/Snake-Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=Snake-Game&theme=radical" />
+  <a href="https://github.com/riyaverma09/Snake_game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=Snake_game&theme=radical" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/riyaverma09/Online-Sales-Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=Online-Sales-Dashboard&theme=radical" />
+  <a href="https://github.com/riyaverma09/Online-Sales-Data-Analysis-Report">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=Online-Sales-Data-Analysis-Report&theme=radical" />
   </a>
-  <a href="https://github.com/riyaverma09/Travel-Tourism-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=Travel-Tourism-System&theme=radical" />
+  <a href="https://github.com/riyaverma09/iphone_sales_analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=iphone_sales_analysis&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/riyaverma09/HR-dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=HR-dashboard&theme=radical" />
+  </a>
+  <a href="https://github.com/riyaverma09/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=portfolio&theme=radical" />
   </a>
 </p>
 
