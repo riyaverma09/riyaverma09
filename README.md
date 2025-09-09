@@ -3,12 +3,6 @@
 
 ---
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=riyu-verma&label=Profile%20views&color=0e75b6&style=flat" alt="riyu-verma" /> 
-</p>
-
----
-
 ## 👩‍💻 About Me  
 - 🎓 MCA (LPU, Punjab) | BCA (Quantum University, Uttarakhand)  
 - 💼 Former Frontend Developer Intern @ iQuanta, Gurgaon  
@@ -53,21 +47,21 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riyu-verma&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyu-verma&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=riyaverma09&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaverma09&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyu-verma&theme=highcontrast" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyaverma09&theme=highcontrast" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 📈 Activity Graph  
-[![Riya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riyu-verma&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Riya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riyaverma09&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -83,4 +77,4 @@
 
 ---
 
-⭐️ From [Riya Verma](https://github.com/riyu-verma)
+⭐️ From [Riya Verma](https://github.com/riyaverma09)
