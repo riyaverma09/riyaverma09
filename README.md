@@ -75,34 +75,6 @@
 [![Riya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riyaverma09&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-## 📌 Featured Projects  
-
-<p align="center">
-  <a href="https://github.com/riyaverma09/Book-Recommendation-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=Book-Recommendation-system&theme=radical" />
-  </a>
-  <a href="https://github.com/riyaverma09/Eventplanner-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=Eventplanner-website&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/riyaverma09/SkillSync">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=SkillSync&theme=radical" />
-  </a>
-  <a href="https://github.com/riyaverma09/Student-Stress-Analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=Student-Stress-Analyzer&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/riyaverma09/Social-Media-Trends-Analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=Social-Media-Trends-Analyzer&theme=radical" />
-  </a>
-  <a href="https://github.com/riyaverma09/Petrol-station">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=Petrol-station&theme=radical" />
-  </a>
-</p>
 
 
 
