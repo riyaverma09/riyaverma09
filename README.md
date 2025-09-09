@@ -75,7 +75,38 @@
 [![Riya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riyaverma09&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
- 
+ ## 📌 Pinned Projects  
+
+<p align="center">
+  <a href="https://github.com/riyaverma09/Online-Sales-Data-Analysis-Report">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=Online-Sales-Data-Analysis-Report&theme=radical" />
+  </a>
+  <a href="https://github.com/riyaverma09/Snake_game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=Snake_game&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  📊 **Online Sales Data Analysis Dashboard (Power BI, DAX)** → Interactive dashboards to visualize online sales trends, KPIs, and insights by region & category.  
+  🐍 **Snake Game (Python, Pygame)** → Classic snake game with scoring, game-over logic, and increasing speed progression.  
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/riyaverma09/Myntra-Clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=Myntra-Clone&theme=radical" />
+  </a>
+  <a href="https://github.com/riyaverma09/Travel-Tourism-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=Travel-Tourism-System&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  🛍️ **Myntra Clone Website (HTML, CSS, JS)** → Frontend replica of Myntra homepage showing offers & product categories with responsive design.  
+  🌍 **Travel & Tourism Management System (HTML, CSS, JS, PHP, MySQL)** → Dynamic booking website with enquiry, package management, and user registration features.  
+</p>
+
 
 ## 🌐 Connect with Me  
 <p align="left">
