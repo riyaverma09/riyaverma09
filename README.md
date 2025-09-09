@@ -69,6 +69,7 @@
 ---
 
 ## 📌 Pinned Projects  
+
 <p align="center">
   <a href="https://github.com/riyaverma09/Netflix-clone">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=Netflix-clone&theme=radical" />
@@ -77,6 +78,13 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=Snake_game&theme=radical" />
   </a>
 </p>
+
+<p align="center">
+  🎬 **Netflix Clone** → A frontend clone of Netflix built with **HTML, CSS, JS**.  
+  🐍 **Snake Game** → Classic Snake game developed in **Python (Pygame)**.  
+</p>
+
+---
 
 <p align="center">
   <a href="https://github.com/riyaverma09/Online-Sales-Data-Analysis-Report">
@@ -88,12 +96,24 @@
 </p>
 
 <p align="center">
+  📊 **Sales Analysis Report** → Interactive **Power BI dashboard** with KPIs & insights.  
+  📱 **iPhone Sales Analysis** → Data analysis using **Python & Pandas**.  
+</p>
+
+---
+
+<p align="center">
   <a href="https://github.com/riyaverma09/HR-dashboard">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=HR-dashboard&theme=radical" />
   </a>
   <a href="https://github.com/riyaverma09/portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaverma09&repo=portfolio&theme=radical" />
   </a>
+</p>
+
+<p align="center">
+  👩‍💼 **HR Dashboard** → Data visualization dashboard for HR analytics.  
+  🌐 **Portfolio Website** → Personal responsive portfolio using **HTML, CSS, JS**.  
 </p>
 
 ---
